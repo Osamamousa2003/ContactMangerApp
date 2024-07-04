@@ -1,0 +1,14 @@
+c:\Users\osama\Desktop\ContactMangerApp\bin\Debug\net8.0\ContactMangerApp.exe
+C:\Users\osama\Desktop\ContactMangerApp\bin\Debug\net8.0\ContactMangerApp.deps.json
+C:\Users\osama\Desktop\ContactMangerApp\bin\Debug\net8.0\ContactMangerApp.runtimeconfig.json
+c:\Users\osama\Desktop\ContactMangerApp\bin\Debug\net8.0\ContactMangerApp.dll
+c:\Users\osama\Desktop\ContactMangerApp\bin\Debug\net8.0\ContactMangerApp.pdb
+c:\Users\osama\Desktop\ContactMangerApp\obj\Debug\net8.0\ContactMangerApp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\osama\Desktop\ContactMangerApp\obj\Debug\net8.0\ContactMangerApp.AssemblyInfoInputs.cache
+c:\Users\osama\Desktop\ContactMangerApp\obj\Debug\net8.0\ContactMangerApp.AssemblyInfo.cs
+c:\Users\osama\Desktop\ContactMangerApp\obj\Debug\net8.0\ContactMangerApp.csproj.CoreCompileInputs.cache
+c:\Users\osama\Desktop\ContactMangerApp\obj\Debug\net8.0\ContactMangerApp.dll
+c:\Users\osama\Desktop\ContactMangerApp\obj\Debug\net8.0\refint\ContactMangerApp.dll
+c:\Users\osama\Desktop\ContactMangerApp\obj\Debug\net8.0\ContactMangerApp.pdb
+C:\Users\osama\Desktop\ContactMangerApp\obj\Debug\net8.0\ContactMangerApp.genruntimeconfig.cache
+C:\Users\osama\Desktop\ContactMangerApp\obj\Debug\net8.0\ref\ContactMangerApp.dll
